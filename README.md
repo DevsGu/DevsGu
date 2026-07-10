@@ -14,7 +14,7 @@
 - 🔍 Atualmente estudando: **Teste e Qualidade de Software**, **Desenvolvimento Web I**, **Gerenciamento de Projetos**, **Análise e Desenvolvimento de Sistemas**, **ADF** e **Segurança da Informação**
 - 🌱 Construindo minha base como desenvolvedor e explorando diferentes áreas antes de me especializar
 - 💬 Aberto a trocar ideia sobre programação, testes de software e projetos acadêmicos
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gustavo-soares-9b81542b9/) · [E-mail](studyguuhss@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gustavo-soares-9b81542b9/)
 
 ---
 

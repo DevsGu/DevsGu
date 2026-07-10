@@ -14,7 +14,7 @@
 - 🔍 Atualmente estudando: **Teste e Qualidade de Software**, **Desenvolvimento Web I**, **Gerenciamento de Projetos**, **Análise e Desenvolvimento de Sistemas**, **ADF** e **Segurança da Informação**
 - 🌱 Construindo minha base como desenvolvedor e explorando diferentes áreas antes de me especializar
 - 💬 Aberto a trocar ideia sobre programação, testes de software e projetos acadêmicos
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/SEU-LINK) · [E-mail](mailto:seuemail@exemplo.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gustavo-soares-9b81542b9/) · [E-mail](studyguuhss@gmail.com)
 
 ---
 
@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-> 💡 Ajuste os badges acima conforme as linguagens/ferramentas que você realmente usa (Python, Java, MySQL, etc).
-
 ---
 
 ### 📌 Áreas de estudo
@@ -40,15 +38,6 @@
 | 🌐 Desenvolvimento Web I | Estrutura e lógica de aplicações web |
 | 📋 Gerenciamento de Projetos | Metodologias e organização de entregas |
 | 🔐 Segurança da Informação | Conceitos e boas práticas de segurança |
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavosoares&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavosoares" alt="GitHub Streak" height="165"/>
-</p>
 
 ---
 

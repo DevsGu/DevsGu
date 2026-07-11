@@ -55,12 +55,13 @@ Ainda estou explorando qual área vai ser a minha — e pra mim isso não é ind
 
 ## 📊 GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevsGu&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=A855F7&icon_color=8E2DE2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsGu&layout=compact&theme=radical&hide_border=true&title_color=A855F7" />
+<img src="https://raw.githubusercontent.com/DevsGu/DevsGu/output/stats.svg" width="100%" />
+
+<sub>⚙️ gerado pela mesma GitHub Action — self-hosted, não depende de servidor de terceiro</sub>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevsGu&theme=radical&hide_border=true&ring=A855F7&fire=8E2DE2" />
+<img src="https://raw.githubusercontent.com/DevsGu/DevsGu/output/streak.svg" width="100%" />
 
 </div>
 
@@ -68,9 +69,9 @@ Ainda estou explorando qual área vai ser a minha — e pra mim isso não é ind
 
 <div align="center">
 
-## 🏆 Troféus
+## 🏅 Marcos da jornada
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevsGu&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="./marcos.svg" width="100%" />
 
 </div>
 
@@ -81,6 +82,8 @@ Ainda estou explorando qual área vai ser a minha — e pra mim isso não é ind
 ## 🐍 Atividade recente
 
 <img src="https://raw.githubusercontent.com/DevsGu/DevsGu/output/github-contribution-grid-snake.svg" width="100%" />
+
+<sub>⚙️ o gif da cobrinha precisa de uma GitHub Action configurada no seu repositório — te explico como abaixo</sub>
 
 </div>
 

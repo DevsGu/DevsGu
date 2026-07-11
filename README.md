@@ -1,44 +1,138 @@
-<h1 align="center">Olá, eu sou o Gustavo 👋</h1>
+<div align="center">
 
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | IFCE Campus Tauá</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=root%40github%3A~%24+whoami;Gustavo+Soares;root%40github%3A~%24+cat+status.log;Compilando+conhecimento...+%5BOK%5D" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gustavosoares&label=Visualizações%20de%20perfil&color=0e75b6&style=flat" alt="visitor badge" />
-</p>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=DevsGu&label=connections&color=39FF14&style=flat-square" alt="visitor badge" />
 
-### 🎓 Sobre mim
+</div>
 
-- 📚 Cursando **ADS** no **IFCE - Campus Tauá** (2º ano)
-- 🔍 Atualmente estudando: **Teste e Qualidade de Software**, **Desenvolvimento Web I**, **Gerenciamento de Projetos**, **Análise e Desenvolvimento de Sistemas**, **ADF** e **Segurança da Informação**
-- 🌱 Construindo minha base como desenvolvedor e explorando diferentes áreas antes de me especializar
-- 💬 Aberto a trocar ideia sobre programação, testes de software e projetos acadêmicos
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/gustavo-soares-9b81542b9/)
+<br/>
 
----
+```bash
+gustavo@ifce:~$ ssh gustavo@vida-academica
+Conectando...
+Autenticado com sucesso.
 
-### 🛠️ Tecnologias e ferramentas
+Bem-vindo ao terminal do Gustavo Soares.
+Sistema: Análise e Desenvolvimento de Sistemas
+Host: IFCE - Campus Tauá
+Uptime: 2º ano em execução, sem crashes registrados
+```
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<br/>
 
----
+## `> cat historia.log`
 
-### 📌 Áreas de estudo
+```
+[boot] 20XX — Primeiro contato com uma tela de código. Curiosidade > medo.
+[load] hoje    — Cursando ADS no IFCE, testando limites do que consigo construir.
+[proc] status  — Não sou "só mais um estudante de TI". Cada linha que escrevo
+                  carrega a forma como eu penso: testar antes de assumir,
+                  documentar antes de esquecer, entregar antes de prometer.
+[note]         — Ainda não sei em qual área vou me especializar — e isso não é
+                  indecisão, é reconhecimento de terreno antes de cravar bandeira.
+```
 
-| Área | Foco atual |
-|---|---|
-| 🧪 Teste e Qualidade de Software | Fundamentos de testes, garantia de qualidade |
-| 🌐 Desenvolvimento Web I | Estrutura e lógica de aplicações web |
-| 📋 Gerenciamento de Projetos | Metodologias e organização de entregas |
-| 🔐 Segurança da Informação | Conceitos e boas práticas de segurança |
+<br/>
 
----
+## `> ps -ef | grep "em execução"`
 
-<p align="center"><i>Em construção — assim como todo bom projeto 🚧</i></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧪 processo: testes_qualidade**
+```diff
++ status: ativo
++ prioridade: alta
+  descrição: garantir que o que eu construo
+  não quebra quando ninguém está olhando
+```
+
+**🌐 processo: dev_web_I**
+```diff
++ status: ativo
+  descrição: estrutura, lógica e as primeiras
+  cicatrizes de CSS mal resolvido
+```
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 processo: seguranca_info**
+```diff
++ status: ativo
+  descrição: pensar como quem quer entrar
+  antes de pensar como quem quer proteger
+```
+
+**📋 processo: gerenciamento_proj**
+```diff
++ status: ativo
+  descrição: organizar caos em entregas
+  que fazem sentido pra outras pessoas
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> top --sort=commits`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevsGu&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&icon_color=39FF14&title_color=39FF14" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsGu&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=39FF14" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevsGu&theme=github-dark-blue&hide_border=true&ring=39FF14&fire=39FF14" />
+
+</div>
+
+
+<br/>
+
+## `> ls -la stack/`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=39FF14" />
+
+</div>
+
+<br/>
+
+## `> crontab -l` — próximas execuções agendadas
+
+```
+[ ] deploy do primeiro projeto full stack fora do ambiente acadêmico
+[ ] merge com um projeto open source de verdade
+[ ] refactor de "sei um pouco de tudo" -> "sou referência em algo"
+[ ] release: diploma de ADS
+```
+
+<br/>
+
+<div align="center">
+
+## `> ping gustavo --contato`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/gustavo-soares-9b81542b9/)
+
+```bash
+gustavo@ifce:~$ echo "ainda em build, mas já rodando em produção"
+```
+
+</div>

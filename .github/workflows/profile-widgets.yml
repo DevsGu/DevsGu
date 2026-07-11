@@ -30,15 +30,14 @@ jobs:
         with:
           username: DevsGu
           output_path: dist/trophy.svg
-          theme: radical
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats.svg (self-hosted, não depende de serviço externo)
         uses: cicirello/user-statistician@v1
         with:
-          user: DevsGu
-          template: dark
-          output: dist/stats.svg
+          image-file: dist/stats.svg
+          colors: dark
+          commit-and-push: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

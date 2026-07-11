@@ -16,6 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create output directory
+        run: mkdir -p dist
+
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:

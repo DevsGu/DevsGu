@@ -82,8 +82,6 @@ Ainda estou explorando qual área vai ser a minha — e pra mim isso não é ind
 
 <img src="https://raw.githubusercontent.com/DevsGu/DevsGu/output/github-contribution-grid-snake.svg" width="100%" />
 
-<sub>⚙️ o gif da cobrinha precisa de uma GitHub Action configurada no seu repositório — te explico como abaixo</sub>
-
 </div>
 
 <br/>

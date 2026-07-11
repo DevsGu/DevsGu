@@ -69,9 +69,9 @@ Ainda estou explorando qual área vai ser a minha — e pra mim isso não é ind
 
 <div align="center">
 
-## 🏅 Marcos da jornada
+## 📅 Calendário de contribuições
 
-<img src="./marcos.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/DevsGu/DevsGu/output/isocalendar.svg" width="55%" />
 
 </div>
 

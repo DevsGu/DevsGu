@@ -1,4 +1,4 @@
-name: Generate Profile Widgets (snake, trophy, stats, streak)
+name: Generate Profile Widgets (snake, isocalendar, stats, streak)
 
 on:
   schedule:
@@ -25,12 +25,14 @@ jobs:
           github_user_name: DevsGu
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Generate trophy.svg (self-hosted, não depende de serviço externo)
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Generate isocalendar.svg (calendário isométrico de contribuições)
+        uses: lowlighter/metrics@latest
         with:
-          username: DevsGu
-          output_path: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: dist/isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
       - name: Generate stats.svg (self-hosted, não depende de serviço externo)
         uses: cicirello/user-statistician@v1

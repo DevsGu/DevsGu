@@ -1,79 +1,39 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=root%40github%3A~%24+whoami;Gustavo+Soares;root%40github%3A~%24+cat+status.log;Compilando+conhecimento...+%5BOK%5D" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Gustavo%20Soares&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=20" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=Construindo+ideias+em+c%C3%B3digo;IFCE+-+Campus+Tau%C3%A1;Sempre+aprendendo%2C+sempre+testando" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=DevsGu&label=connections&color=39FF14&style=flat-square" alt="visitor badge" />
+<img src="https://komarev.com/ghpvc/?username=DevsGu&label=Visualizações&color=8E2DE2&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Em%20constru%C3%A7%C3%A3o-4A00E0?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-```bash
-gustavo@ifce:~$ ssh gustavo@vida-academica
-Conectando...
-Autenticado com sucesso.
-
-Bem-vindo ao terminal do Gustavo Soares.
-Sistema: Análise e Desenvolvimento de Sistemas
-Host: IFCE - Campus Tauá
-Uptime: 2º ano em execução, sem crashes registrados
-```
-
-<br/>
-
-## `> cat historia.log`
-
-```
-[boot] 20XX — Primeiro contato com uma tela de código. Curiosidade > medo.
-[load] hoje    — Cursando ADS no IFCE, testando limites do que consigo construir.
-[proc] status  — Não sou "só mais um estudante de TI". Cada linha que escrevo
-                  carrega a forma como eu penso: testar antes de assumir,
-                  documentar antes de esquecer, entregar antes de prometer.
-[note]         — Ainda não sei em qual área vou me especializar — e isso não é
-                  indecisão, é reconhecimento de terreno antes de cravar bandeira.
-```
-
-<br/>
-
-## `> ps -ef | grep "em execução"`
-
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-**🧪 processo: testes_qualidade**
-```diff
-+ status: ativo
-+ prioridade: alta
-  descrição: garantir que o que eu construo
-  não quebra quando ninguém está olhando
-```
+### 👋 Sobre mim
 
-**🌐 processo: dev_web_I**
-```diff
-+ status: ativo
-  descrição: estrutura, lógica e as primeiras
-  cicatrizes de CSS mal resolvido
-```
+Sou o Gustavo — estudante de **ADS no IFCE, Campus Tauá**, e alguém que trata cada
+projeto acadêmico como se já fosse produção: testando antes de assumir, documentando
+antes de esquecer, entregando antes de prometer.
+
+Ainda estou explorando qual área vai ser a minha — e pra mim isso não é indecisão,
+é reconhecimento de terreno antes de cravar bandeira.
+
+- 🔭 Estudando **Testes de Software**, **Dev Web**, **Gerenciamento de Projetos** e **Segurança da Informação**
+- ⚡ Curioso por natureza, teimoso com bugs
+- 🤝 Sempre aberto a trocar ideia sobre código, testes e projetos
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top" align="center">
 
-**🔐 processo: seguranca_info**
-```diff
-+ status: ativo
-  descrição: pensar como quem quer entrar
-  antes de pensar como quem quer proteger
-```
-
-**📋 processo: gerenciamento_proj**
-```diff
-+ status: ativo
-  descrição: organizar caos em entregas
-  que fazem sentido pra outras pessoas
-```
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="110" />
 
 </td>
 </tr>
@@ -81,58 +41,76 @@ Uptime: 2º ano em execução, sem crashes registrados
 
 <br/>
 
-## `> top --sort=commits`
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevsGu&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&icon_color=39FF14&title_color=39FF14" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsGu&layout=compact&theme=github_dark_dimmed&hide_border=true&title_color=39FF14" />
+## 🚀 Stack
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevsGu&theme=github-dark-blue&hide_border=true&ring=39FF14&fire=39FF14" />
-
-</div>
-
-
-<br/>
-
-## `> ls -la stack/`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=39FF14" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,mysql,linux,vscode&theme=dark" />
 
 </div>
 
 <br/>
 
-## `> crontab -l` — próximas execuções agendadas
+<div align="center">
 
-```
-[ ] deploy do primeiro projeto full stack fora do ambiente acadêmico
-[ ] merge com um projeto open source de verdade
-[ ] refactor de "sei um pouco de tudo" -> "sou referência em algo"
-[ ] release: diploma de ADS
-```
+## 📊 GitHub Analytics
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevsGu&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=A855F7&icon_color=8E2DE2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsGu&layout=compact&theme=radical&hide_border=true&title_color=A855F7" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevsGu&theme=radical&hide_border=true&ring=A855F7&fire=8E2DE2" />
+
+</div>
 
 <br/>
 
 <div align="center">
 
-## `> ping gustavo --contato`
+## 🏆 Troféus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-conectar-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/gustavo-soares-9b81542b9/)
+<img src="https://github-profile-trophy.vercel.app/?username=DevsGu&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 
-```bash
-gustavo@ifce:~$ echo "ainda em build, mas já rodando em produção"
-```
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🐍 Atividade recente
+
+<img src="https://raw.githubusercontent.com/DevsGu/DevsGu/output/github-contribution-grid-snake.svg" width="100%" />
+
+<sub>⚙️ o gif da cobrinha precisa de uma GitHub Action configurada no seu repositório — te explico como abaixo</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🎯 Próximos passos
+
+</div>
+
+| 🎯 Meta | Situação |
+|---|:---:|
+| Publicar meu primeiro projeto full stack fora da faculdade | 🔲 |
+| Contribuir com um projeto open source de verdade | 🔲 |
+| Sair de "sei um pouco de tudo" pra "sou referência em algo" | 🔲 |
+| Concluir a graduação em ADS | 🔲 |
+
+<br/>
+
+<div align="center">
+
+## 📫 Vamos conversar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Soares-8E2DE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-soares-9b81542b9/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=120&section=footer" width="100%" />
 
 </div>
